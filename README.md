@@ -32,3 +32,5 @@ Questions? Join us in the #devchat channel of the [Create Discord](https://disco
 ## License
 
 This template is available under the CC0 license. Feel free to do as you wish with it.
+
+Note that is a fork of the original template 1.19 by @Fabricators-of-Create
